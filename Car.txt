@@ -1,0 +1,21 @@
+자동차 클래스(Car class)
+
+String 3개 - 제조사, 모델, 칼라
+int 1개 - max speed
+
+생성자 (기본 생성자)
+
++ 생성자 (인자로 String model 받는 생성자 - 모델값 초기화)
+
+main Class
+
+Car class 불러서 인스턴스 만들기
+company 출력하기
+
+트럭
+변수 - double - payload(적재량)
+메소드 - load - syso 물건을 적재합니다.
+
+생성자
+- 트럭이름, 적재량 받기
+
